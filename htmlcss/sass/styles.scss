@@ -1,0 +1,27 @@
+article {
+  border-right: solid 0.2em red;
+}
+
+article h1 {
+  color: red;
+}
+
+article p {
+  margin: 1em 0;
+}
+
+.message.alert {
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 1em;
+  padding: 1em;
+  border-color: red;
+}
+
+.message.warning {
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 1em;
+  padding: 1em;
+  border-color: yellow;
+}

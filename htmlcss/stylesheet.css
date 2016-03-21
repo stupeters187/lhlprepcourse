@@ -1,0 +1,73 @@
+body {
+  background: #F8E1A5;
+}
+
+h1 {
+  font-family: AppleGothic;
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+h2 {
+  font-family: AppleGothic;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: AppleGothic;
+}
+
+
+#nutrition {
+  font-family: AppleGothic;
+  margin-left: 50px;
+}
+
+table {
+  font-family: AppleGothic;
+  text-align: center;
+  padding: 30px;
+ /* border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: black;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: black;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: black;*/
+  border: 1px solid black;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+ul {
+  list-style-type: none;
+  font-family: AppleGothic;
+}
+
+ol {
+  font-family: AppleGothic;
+}
+
+td {
+  width: 200px;
+}
+
+IMG#img-top {
+
+  border-radius: 5px;
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#ingredients {
+  align: left;
+}
+
+#img-mid-1 {
+  margin-right: 10px;
+}
